@@ -536,6 +536,7 @@
 - [c0d3zilla/CVE-2024-2876](https://github.com/c0d3zilla/CVE-2024-2876)
 - [Quantum-Hacker/CVE-2024-2876](https://github.com/Quantum-Hacker/CVE-2024-2876)
 - [0xAgun/CVE-2024-2876](https://github.com/0xAgun/CVE-2024-2876)
+- [skyrowalker/CVE-2024-2876](https://github.com/skyrowalker/CVE-2024-2876)
 
 ### CVE-2024-2879 (2024-04-03)
 
@@ -895,6 +896,7 @@
 - [MielPopsssssss/CVE-2024-4439](https://github.com/MielPopsssssss/CVE-2024-4439)
 - [d0rb/CVE-2024-4439](https://github.com/d0rb/CVE-2024-4439)
 - [xssor-dz/-CVE-2024-4439](https://github.com/xssor-dz/-CVE-2024-4439)
+- [soltanali0/CVE-2024-4439](https://github.com/soltanali0/CVE-2024-4439)
 
 ### CVE-2024-4443 (2024-05-22)
 
@@ -1362,13 +1364,6 @@
 
 - [RandomRobbieBF/CVE-2024-6624](https://github.com/RandomRobbieBF/CVE-2024-6624)
 
-### CVE-2024-6646 (2024-07-10)
-
-<code>Eine problematische Schwachstelle wurde in Netgear WN604 bis 20240710 ausgemacht. Dies betrifft einen unbekannten Teil der Datei /downloadFile.php der Komponente Web Interface. Dank Manipulation des Arguments file mit der Eingabe config mit unbekannten Daten kann eine information disclosure-Schwachstelle ausgenutzt werden. Der Angriff kann über das Netzwerk passieren. Der Exploit steht zur öffentlichen Verfügung.
-</code>
-
-- [inviewp/CVE-2024-6646](https://github.com/inviewp/CVE-2024-6646)
-
 ### CVE-2024-6670 (2024-08-29)
 
 <code>In WhatsUp Gold versions released before 2024.0.0, a SQL Injection vulnerability allows an unauthenticated attacker to retrieve the users encrypted password.
@@ -1553,6 +1548,9 @@
 
 - [Avento/CVE-2024-8522](https://github.com/Avento/CVE-2024-8522)
 
+### CVE-2024-8698
+- [huydoppaz/CVE-2024-8698-POC](https://github.com/huydoppaz/CVE-2024-8698-POC)
+
 ### CVE-2024-8752 (2024-09-16)
 
 <code>The Windows version of WebIQ 2.15.9 is affected by a directory traversal vulnerability that allows remote attackers to read any file on the system.
@@ -1575,14 +1573,26 @@
 ### CVE-2024-9166
 - [Andrysqui/CVE-2024-9166](https://github.com/Andrysqui/CVE-2024-9166)
 
+### CVE-2024-9379
+- [nothe1senberg/CVE-2024-9379](https://github.com/nothe1senberg/CVE-2024-9379)
+
+### CVE-2024-9380
+- [nothe1senberg/CVE-2024-9380](https://github.com/nothe1senberg/CVE-2024-9380)
+
 ### CVE-2024-9441
 - [adhikara13/CVE-2024-9441](https://github.com/adhikara13/CVE-2024-9441)
+- [abhishekrautela/CVE-2024-9441](https://github.com/abhishekrautela/CVE-2024-9441)
+
+### CVE-2024-9463
+- [nothe1senberg/CVE-2024-9463](https://github.com/nothe1senberg/CVE-2024-9463)
 
 ### CVE-2024-9464
 - [horizon3ai/CVE-2024-9464](https://github.com/horizon3ai/CVE-2024-9464)
+- [nothe1senberg/CVE-2024-9464](https://github.com/nothe1senberg/CVE-2024-9464)
 
 ### CVE-2024-9465
 - [horizon3ai/CVE-2024-9465](https://github.com/horizon3ai/CVE-2024-9465)
+- [mustafaakalin/CVE-2024-9465](https://github.com/mustafaakalin/CVE-2024-9465)
 
 ### CVE-2024-12883
 - [mhtsec/cve-2024-12883](https://github.com/mhtsec/cve-2024-12883)
@@ -2163,6 +2173,13 @@
 
 - [horizon3ai/CVE-2024-23108](https://github.com/horizon3ai/CVE-2024-23108)
 - [hitem/CVE-2024-23108](https://github.com/hitem/CVE-2024-23108)
+
+### CVE-2024-23113 (2024-02-15)
+
+<code>A use of externally-controlled format string in Fortinet FortiOS versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.6, 7.0.0 through 7.0.13, FortiProxy versions 7.4.0 through 7.4.2, 7.2.0 through 7.2.8, 7.0.0 through 7.0.14, FortiPAM versions 1.2.0, 1.1.0 through 1.1.2, 1.0.0 through 1.0.3, FortiSwitchManager versions 7.2.0 through 7.2.3, 7.0.0 through 7.0.3 allows attacker to execute unauthorized code or commands via specially crafted packets.
+</code>
+
+- [nothe1senberg/CVE-2024-23113](https://github.com/nothe1senberg/CVE-2024-23113)
 
 ### CVE-2024-23208 (2024-01-23)
 
@@ -3868,7 +3885,6 @@
 - [Stuub/CVE-2024-32640-SQLI-MuraCMS](https://github.com/Stuub/CVE-2024-32640-SQLI-MuraCMS)
 - [0xYumeko/CVE-2024-32640-SQLI-MuraCMS](https://github.com/0xYumeko/CVE-2024-32640-SQLI-MuraCMS)
 - [sammings/CVE-2024-32640](https://github.com/sammings/CVE-2024-32640)
-- [inviewp/CVE-2024-32640](https://github.com/inviewp/CVE-2024-32640)
 
 ### CVE-2024-32651 (2024-04-25)
 
@@ -4680,8 +4696,8 @@
 <code>Applications serving static resources through the functional web frameworks WebMvc.fn or WebFlux.fn are vulnerable to path traversal attacks. An attacker can craft malicious HTTP requests and obtain any file on the file system that is also accessible to the process in which the Spring application is running.\n\nSpecifically, an application is vulnerable when both of the following are true:\n\n  *  the web application uses RouterFunctions to serve static resources\n  *  resource handling is explicitly configured with a FileSystemResource location\n\n\nHowever, malicious requests are blocked and rejected when any of the following is true:\n\n  *  the  Spring Security HTTP Firewall https://docs.spring.io/spring-security/reference/servlet/exploits/firewall.html  is in use\n  *  the application runs on Tomcat or Jetty
 </code>
 
-- [weliveby/cve-2024-38816-demo](https://github.com/weliveby/cve-2024-38816-demo)
-- [masa42/CVE-2024-38816-PoC](https://github.com/masa42/CVE-2024-38816-PoC)
+- [startsw1th/cve-2024-38816-demo](https://github.com/startsw1th/cve-2024-38816-demo)
+- [WULINPIN/CVE-2024-38816-PoC](https://github.com/WULINPIN/CVE-2024-38816-PoC)
 
 ### CVE-2024-38856 (2024-08-05)
 
@@ -4799,7 +4815,6 @@
 </code>
 
 - [truonghuuphuc/CVE-2024-39943-Poc](https://github.com/truonghuuphuc/CVE-2024-39943-Poc)
-- [A-little-dragon/CVE-2024-39943-Exploit](https://github.com/A-little-dragon/CVE-2024-39943-Exploit)
 
 ### CVE-2024-40080
 - [perras/CVE-2024-40080](https://github.com/perras/CVE-2024-40080)
@@ -5124,6 +5139,7 @@
 - [absholi7ly/CVE-2024-44000-LiteSpeed-Cache](https://github.com/absholi7ly/CVE-2024-44000-LiteSpeed-Cache)
 - [gbrsh/CVE-2024-44000](https://github.com/gbrsh/CVE-2024-44000)
 - [ifqygazhar/CVE-2024-44000-LiteSpeed-Cache](https://github.com/ifqygazhar/CVE-2024-44000-LiteSpeed-Cache)
+- [geniuszlyy/CVE-2024-44000](https://github.com/geniuszlyy/CVE-2024-44000)
 
 ### CVE-2024-44083 (2024-08-19)
 
@@ -5288,6 +5304,9 @@
 
 ### CVE-2024-45614
 - [ooooooo-q/puma_header_normalization-CVE-2024-45614](https://github.com/ooooooo-q/puma_header_normalization-CVE-2024-45614)
+
+### CVE-2024-46209
+- [h4ckr4v3n/CVE-2024-46209](https://github.com/h4ckr4v3n/CVE-2024-46209)
 
 ### CVE-2024-46256
 - [barttran2k/POC_CVE-2024-46256](https://github.com/barttran2k/POC_CVE-2024-46256)
@@ -6019,7 +6038,6 @@
 
 - [yuanjinyuyuyu/CVE-2023-3450](https://github.com/yuanjinyuyuyu/CVE-2023-3450)
 - [caopengyan/CVE-2023-3450](https://github.com/caopengyan/CVE-2023-3450)
-- [inviewp/CVE-2023-3450](https://github.com/inviewp/CVE-2023-3450)
 
 ### CVE-2023-3452 (2023-08-12)
 
@@ -6144,7 +6162,6 @@
 </code>
 
 - [mvpyyds/CVE-2023-4165](https://github.com/mvpyyds/CVE-2023-4165)
-- [inviewp/CVE-2023-4165](https://github.com/inviewp/CVE-2023-4165)
 
 ### CVE-2023-4166 (2023-08-05)
 
@@ -6152,7 +6169,6 @@
 </code>
 
 - [mvpyyds/CVE-2023-4166](https://github.com/mvpyyds/CVE-2023-4166)
-- [inviewp/CVE-2023-4166](https://github.com/inviewp/CVE-2023-4166)
 
 ### CVE-2023-4169 (2023-08-05)
 
@@ -12686,7 +12702,6 @@
 
 - [vnxdtzip/CVE-2023-47253](https://github.com/vnxdtzip/CVE-2023-47253)
 - [OpenXP-Research/CVE-2023-47253](https://github.com/OpenXP-Research/CVE-2023-47253)
-- [inviewp/Qualitor_CVE-2023-47253](https://github.com/inviewp/Qualitor_CVE-2023-47253)
 
 ### CVE-2023-47355 (2024-02-05)
 
@@ -21390,13 +21405,6 @@
 
 - [d0rb/CVE-2021-3773](https://github.com/d0rb/CVE-2021-3773)
 
-### CVE-2021-3831 (2021-12-14)
-
-<code>gnuboard5 is vulnerable to Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')
-</code>
-
-- [aratane/CVE-2021-3831](https://github.com/aratane/CVE-2021-3831)
-
 ### CVE-2021-3864 (2022-08-26)
 
 <code>A flaw was found in the way the dumpable flag setting was handled when certain SUID binaries executed its descendants. The prerequisite is a SUID binary that sets real UID equal to effective UID, and real GID equal to effective GID. The descendant will then have a dumpable value set to 1. As a result, if the descendant process crashes and core_pattern is set to a relative value, its core dump is stored in the current directory with uid:gid permissions. An unprivileged local user with eligible root SUID binary could use this flaw to place core dumps into root-owned directories, potentially resulting in escalation of privileges.
@@ -22051,6 +22059,7 @@
 - [tiagob0b/CVE-2021-22005](https://github.com/tiagob0b/CVE-2021-22005)
 - [Jun-5heng/CVE-2021-22005](https://github.com/Jun-5heng/CVE-2021-22005)
 - [shmilylty/cve-2021-22005-exp](https://github.com/shmilylty/cve-2021-22005-exp)
+- [timb-machine-mirrors/testanull-CVE-2021-22005.py](https://github.com/timb-machine-mirrors/testanull-CVE-2021-22005.py)
 - [InventorMAO/cve-2021-22005](https://github.com/InventorMAO/cve-2021-22005)
 
 ### CVE-2021-22006 (2021-09-23)
@@ -29264,6 +29273,7 @@
 - [0dayCTF/CVE-2020-9484](https://github.com/0dayCTF/CVE-2020-9484)
 - [Disturbante/CVE-2020-9484](https://github.com/Disturbante/CVE-2020-9484)
 - [deathquote/CVE-2020-9484](https://github.com/deathquote/CVE-2020-9484)
+- [savsch/PoC_CVE-2020-9484](https://github.com/savsch/PoC_CVE-2020-9484)
 
 ### CVE-2020-9495 (2020-06-19)
 
@@ -32322,6 +32332,13 @@
 </code>
 
 - [ozkanbilge/Apache-Exploit-2019](https://github.com/ozkanbilge/Apache-Exploit-2019)
+
+### CVE-2019-0217 (2019-04-08)
+
+<code>In Apache HTTP Server 2.4 release 2.4.38 and prior, a race condition in mod_auth_digest when running in a threaded server could allow a user with valid credentials to authenticate using another username, bypassing configured access control restrictions.
+</code>
+
+- [savsch/PoC_CVE-2019-0217](https://github.com/savsch/PoC_CVE-2019-0217)
 
 ### CVE-2019-0227 (2019-05-01)
 
