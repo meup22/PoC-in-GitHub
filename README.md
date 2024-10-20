@@ -973,7 +973,6 @@
 - [a-roshbaik/CVE-2024-4577](https://github.com/a-roshbaik/CVE-2024-4577)
 - [a-roshbaik/CVE-2024-4577-PHP-RCE](https://github.com/a-roshbaik/CVE-2024-4577-PHP-RCE)
 - [Jcccccx/CVE-2024-4577](https://github.com/Jcccccx/CVE-2024-4577)
-- [ManuelKy08/CVE-2024-4577---RR](https://github.com/ManuelKy08/CVE-2024-4577---RR)
 - [bughuntar/CVE-2024-4577](https://github.com/bughuntar/CVE-2024-4577)
 - [fa-rrel/CVE-2024-4577-RCE](https://github.com/fa-rrel/CVE-2024-4577-RCE)
 - [ywChen-NTUST/PHP-CGI-RCE-Scanner](https://github.com/ywChen-NTUST/PHP-CGI-RCE-Scanner)
@@ -1614,6 +1613,8 @@
 
 ### CVE-2024-9264
 - [nollium/CVE-2024-9264](https://github.com/nollium/CVE-2024-9264)
+- [z3k0sec/File-Read-CVE-2024-9264](https://github.com/z3k0sec/File-Read-CVE-2024-9264)
+- [zgimszhd61/CVE-2024-9264](https://github.com/zgimszhd61/CVE-2024-9264)
 
 ### CVE-2024-9441
 - [adhikara13/CVE-2024-9441](https://github.com/adhikara13/CVE-2024-9441)
@@ -24855,6 +24856,7 @@
 </code>
 
 - [PinkDraconian/CVE-2021-39433](https://github.com/PinkDraconian/CVE-2021-39433)
+- [ibnurusdianto/CVE-2021-39433](https://github.com/ibnurusdianto/CVE-2021-39433)
 
 ### CVE-2021-39473 (2022-11-04)
 
@@ -26435,6 +26437,7 @@
 - [lov3r/cve-2021-44228-log4j-exploits](https://github.com/lov3r/cve-2021-44228-log4j-exploits)
 - [sinakeshmiri/log4jScan](https://github.com/sinakeshmiri/log4jScan)
 - [0xDexter0us/Log4J-Scanner](https://github.com/0xDexter0us/Log4J-Scanner)
+- [LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228](https://github.com/LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228)
 - [0xsyr0/Log4Shell](https://github.com/0xsyr0/Log4Shell)
 - [1hakusai1/log4j-rce-CVE-2021-44228](https://github.com/1hakusai1/log4j-rce-CVE-2021-44228)
 - [jeffli1024/log4j-rce-test](https://github.com/jeffli1024/log4j-rce-test)
@@ -26899,7 +26902,6 @@
 - [dskho/CVE-2021-45232](https://github.com/dskho/CVE-2021-45232)
 - [GYLQ/CVE-2021-45232-RCE](https://github.com/GYLQ/CVE-2021-45232-RCE)
 - [fany0r/CVE-2021-45232-RCE](https://github.com/fany0r/CVE-2021-45232-RCE)
-- [yggcwhat/CVE-2021-45232](https://github.com/yggcwhat/CVE-2021-45232)
 - [YutuSec/Apisix_Crack](https://github.com/YutuSec/Apisix_Crack)
 
 ### CVE-2021-45416 (2022-02-01)
@@ -36310,7 +36312,7 @@
 <code>The Strapi framework before 3.0.0-beta.17.8 is vulnerable to Remote Code Execution in the Install and Uninstall Plugin components of the Admin panel, because it does not sanitize the plugin name, and attackers can inject arbitrary shell commands to be executed by the execa function.
 </code>
 
-- [z9fr/CVE-2019-19609](https://github.com/z9fr/CVE-2019-19609)
+- [ebadfd/CVE-2019-19609](https://github.com/ebadfd/CVE-2019-19609)
 - [diego-tella/CVE-2019-19609-EXPLOIT](https://github.com/diego-tella/CVE-2019-19609-EXPLOIT)
 - [guglia001/CVE-2019-19609](https://github.com/guglia001/CVE-2019-19609)
 - [D3m0nicw0lf/CVE-2019-19609](https://github.com/D3m0nicw0lf/CVE-2019-19609)
